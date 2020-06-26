@@ -1,0 +1,130 @@
+{
+  "n5_vocab": [
+    {
+      "id": 1,
+      "kana": "あっち",
+      "eng": "over there"
+    },
+    {
+      "id": 2,
+      "kana": "あちら",
+      "eng": "there"
+    },
+    {
+      "id": 3,
+      "kana": "あか",
+      "kanji": "赤",
+      "eng": "red; crimson; scarlet"
+    },
+    {
+      "id": 4,
+      "kana": "あき",
+      "kanji": "秋",
+      "eng": "autumn; fall"
+    },
+    {
+      "id": 5,
+      "kana": "あめ",
+      "kanji": "飴",
+      "eng": "candy"
+    },
+    {
+      "id": 6,
+      "kana": "あめ",
+      "kanji": "雨",
+      "eng": "rain"
+    },
+    {
+      "id": 7,
+      "kana": "あなた",
+      "eng": "you"
+    },
+    {
+      "id": 8,
+      "kana": "あね",
+      "kanji": "姉",
+      "eng": "older sister; elder sister"
+    },
+    {
+      "id": 9,
+      "kana": "あに",
+      "kanji": "兄",
+      "eng": "elder brother; older brother"
+    },
+    {
+      "id": 10,
+      "kana": "あの",
+      "eng": "that"
+    },
+    {
+      "id": 11,
+      "kana": "あお",
+      "kanji": "青",
+      "eng": "blue; azure"
+    },
+    {
+      "id": 12,
+      "kana": "アパート",
+      "eng": "apartment"
+    },
+    {
+      "id": 13,
+      "kana": "あれ",
+      "eng": "that"
+    },
+    {
+      "id": 14,
+      "kana": "あさ",
+      "kanji": "朝",
+      "eng": "morning"
+    },
+    {
+      "id": 15,
+      "kana": "あさごはん",
+      "kanji": "朝ご飯",
+      "eng": "breakfast"
+    },
+    {
+      "id": 16,
+      "kana": "あさって",
+      "kanji": "明後日",
+      "eng": "day after tomorrow"
+    },
+    {
+      "id": 17,
+      "kana": "あし",
+      "kanji": "足",
+      "eng": "foot; leg; paw; arm"
+    },
+    {
+      "id": 18,
+      "kana": "あした",
+      "kanji": "明日",
+      "eng": "tomorrow"
+    },
+    {
+      "id": 19,
+      "kana": "あそこ",
+      "eng": "over there"
+    },
+    {
+      "id": 20,
+      "kana": "あたま",
+      "kanji": "頭",
+      "eng": "head"
+    },
+    {
+      "id": 21,
+      "kana": "あと",
+      "kanji": "後",
+      "eng": "behind; after; remainder; left; also"
+    },
+    {
+      "id": 22,
+      "kana": "ばんごはん",
+      "kanji": "晩ご飯",
+      "eng": "dinner; evening meal"
+    }
+  ]
+
+}
